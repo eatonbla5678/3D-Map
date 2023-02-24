@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Good Map-0.1";
 const contentToCache = [
-    "Build/utgh.loader.js",
-    "Build/utgh.framework.js",
-    "Build/utgh.data",
-    "Build/utgh.wasm",
+    "Build/(hopefully) FINAL BUILD.loader.js",
+    "Build/(hopefully) FINAL BUILD.framework.js",
+    "Build/(hopefully) FINAL BUILD.data",
+    "Build/(hopefully) FINAL BUILD.wasm",
     "TemplateData/style.css"
 
 ];
